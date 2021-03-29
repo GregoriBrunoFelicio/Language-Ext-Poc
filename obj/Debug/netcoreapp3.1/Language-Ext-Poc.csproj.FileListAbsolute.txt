@@ -1,0 +1,15 @@
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\bin\Debug\netcoreapp3.1\Language-Ext-Poc.exe
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\bin\Debug\netcoreapp3.1\Language-Ext-Poc.deps.json
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\bin\Debug\netcoreapp3.1\Language-Ext-Poc.runtimeconfig.json
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\bin\Debug\netcoreapp3.1\Language-Ext-Poc.runtimeconfig.dev.json
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\bin\Debug\netcoreapp3.1\Language-Ext-Poc.dll
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\bin\Debug\netcoreapp3.1\Language-Ext-Poc.pdb
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\obj\Debug\netcoreapp3.1\Language-Ext-Poc.csprojAssemblyReference.cache
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\obj\Debug\netcoreapp3.1\Language-Ext-Poc.AssemblyInfoInputs.cache
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\obj\Debug\netcoreapp3.1\Language-Ext-Poc.AssemblyInfo.cs
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\obj\Debug\netcoreapp3.1\Language-Ext-Poc.csproj.CoreCompileInputs.cache
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\obj\Debug\netcoreapp3.1\Language-Ext-Poc.csproj.CopyComplete
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\obj\Debug\netcoreapp3.1\Language-Ext-Poc.dll
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\obj\Debug\netcoreapp3.1\Language-Ext-Poc.pdb
+C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Language-Ext-Poc\obj\Debug\netcoreapp3.1\Language-Ext-Poc.genruntimeconfig.cache
